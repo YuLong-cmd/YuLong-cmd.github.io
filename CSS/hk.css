@@ -1,0 +1,212 @@
+div{
+	margin: 0;
+	padding: 0;
+}
+#floatdiv{
+	position:absolute;
+	z-index: 50;
+}
+#apDiv1{
+	 position: absolute; 
+	 left: 10px; 
+	 top: 15px; 
+	 width: 1400px; 
+	 height: 200px; 
+	 z-index: 1;
+}
+#ig01{
+	 width:1400px;
+	 height:200px;
+}
+#apDiv2{
+	position: absolute; 
+	left: 249px; 
+	top: 218px; 
+	width: 75px; 
+	height: 31px; 
+	z-index: 2; 
+	text-align: center; 
+	vertical-align: middle;
+}
+p{
+	font-size:25px;
+}
+#apDiv3{
+	position: absolute; 
+	left: 328px; 
+	top: 218px; 
+	width: 125px; 
+	height: 31px; 
+	z-index: 3; 
+	text-align: center; 
+	vertical-align: middle;
+}
+#apDiv4{
+	position: absolute; 
+	left: 457px; 
+	top: 218px; 
+	width: 125px; 
+	height: 31px; 
+	z-index: 4; 
+	text-align: center; 
+	vertical-align: middle;
+}
+#apDiv5{
+	 position: absolute; 
+	 left: 586px; 
+	 top: 218px; 
+	 width: 125px; 
+	 height: 31px; 
+	 z-index: 5; 
+	 text-align: center; 
+	 vertical-align: middle;
+}
+#apDiv6{
+	 position: absolute; 
+	 left: 715px; 
+	 top: 218px; 
+	 width: 125px; 
+	 height: 31px; 
+	 z-index: 6; 
+	 text-align: center; 
+	 vertical-align: middle;
+}
+#apDiv7{
+	 position: absolute; 
+	 left: 844px; 
+	 top: 218px; 
+	 width: 125px; 
+	 height: 31px; 
+	 z-index: 7; 
+	 text-align: center; 
+	 vertical-align: middle;
+}
+#apDiv8{
+	 position: absolute; 
+	 left: 973px; 
+	 top: 218px; 
+	 width: 125px; 
+	 height: 31px; 
+	 z-index: 8; 
+	 text-align: center; 
+	 vertical-align: middle;
+}
+#apDiv9{
+	 position: absolute; 
+	 left: 1102px; 
+	 top: 218px; 
+	 width: 125px; 
+	 height: 31px; 
+	 z-index: 9; 
+	 text-align: center; 
+	 vertical-align: middle;
+}
+#apDiv10{
+	 position: absolute; 
+	 left: 238px; 
+	 top: 275px; 
+	 width: 1000px; 
+	 height: 200px; 
+	 z-index: 10; 
+	 text-align: center;
+}
+#apDiv11{
+	 position: absolute; 
+	 left: 230px; 
+	 top: 504px; 
+	 width: 592px; 
+	 height: 543px; 
+	 z-index: 11; 
+	 vertical-align: middle;
+}
+#ig02{
+	width:1000px;
+    height:200px;
+}
+#ig03{
+	width:1000px;
+    height:200px;
+}
+#ig04{
+	width:1000px;
+    height:200px;
+}
+/*选项卡*/
+#u1 li{
+	display: inline;
+	text-decoration: none;
+	background-color: lightblue;
+}
+#xxk{
+	position: absolute; 
+	 left: 1050px; 
+	 top: 425px; 
+	 z-index: 11; 
+}
+#TabControl{
+	position: absolute; 
+	 left: 230px; 
+	 top: 504px; 
+	 width: 592px; 
+	 height: 543px; 
+	 z-index: 11; 
+	 vertical-align: middle;
+}
+#apDiv13{
+	 position: absolute; 
+	 left: 933px; 
+	 top: 501px; 
+	 width: 300px; 
+	 height: 156px; 
+	 z-index: 13; 
+	 vertical-align: middle;
+}
+#apDiv14{
+	 position: absolute; 
+	 left: 933px; 
+	 top: 659px; 
+	 width: 300px; 
+	 height: 156px; 
+	 z-index: 14; 
+	 vertical-align: middle;
+}
+#apDiv15{
+	 position: absolute; 
+	 left: 933px; 
+	 top: 817px; 
+	 width: 300px; 
+	 height: 156px; 
+	 z-index: 15; 
+	 vertical-align: middle;
+}
+#apDiv16{
+	 position: absolute; 
+	 left: 933px; 
+	 top: 975px; 
+	 width: 300px; 
+	 height: 156px; 
+	 z-index: 16; 
+	 vertical-align: middle;
+}
+/*#apDiv17{
+	position: absolute; 
+	left: 820px; 
+	top: 458px; 
+	width: 1px; 
+	height: 635px; 
+	z-index: 17; 
+	vertical-align: middle;
+}*/
+#apDiv18{
+	 position: absolute; 
+	 left: 400px; 
+	 top: 1134px; 
+	 width: 843px; 
+	 height: 38px; 
+	 z-index: 18; 
+	 text-align: center;
+}
+.ig{
+	width:300px;
+    height:150px;
+}
